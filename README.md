@@ -1,0 +1,2 @@
+# Azure-Data-Warehouse-Azure-Synapse-Analytics-ETL-Pipeline-Data-Modeling-Project
+End-to-end Azure Data Warehouse implementation using Azure Synapse Analytics, Azure Data Factory, PySpark, and SQL. This project demonstrates building a modern cloud data warehouse solution including ETL pipelines, incremental data loading, data transformation, external tables, dimensional modeling, and Slowly Changing Dimensions (SCD)
